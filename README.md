@@ -70,5 +70,4 @@ A call to action for individuals, organizations, and governments to take steps t
 ---
 
 **To Do:**
-- Justify Instagram
-- Justify number of comments
+
